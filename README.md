@@ -31,23 +31,18 @@ Moreover, I am also an open-source enthusiast and maintainer. I learned a lot fr
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukitran2181&repo=Ecommerce&theme=rose" />
 </a>
-
 <a href="https://github.com/yukitran2181/RFM_Analysis/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukitran2181&repo=RFM_Analysis&theme=rose" />
-</a> 
-  
+</a>  
 <a href="https://github.com/yukitran2181/4G_transition_predict/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukitran2181&repo=4G_transition_predict&theme=rose&show_icons=true" />
 </a>
-
 <a href="https://github.com/yukitran2181/Power_BI_projects/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukitran2181&repo=Power_BI_projects&theme=rose" />
 </a> 
-
-
 <a href="https://github.com/yukitran2181/HRM_Analysis/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukitran2181&repo=HRM_Analysis&theme=rose" />
